@@ -1,0 +1,6 @@
+{
+  "configVersion": 1,
+  "apiBaseUrls": [
+    "http://87.236.166.121:8080",
+  ]
+}
